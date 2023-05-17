@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UserNameMaxWasNotAvailable
+- 👋 Hi, I’m @MaxVinichenko
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning everything usefull
 - 💞️ I’m looking to collaborate on ...
