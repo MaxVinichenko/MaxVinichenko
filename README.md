@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MaxVinichenko
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning everything usefull
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently a UBC Engineering student
 - 📫 How to reach me: maxvin2002vinmax@gmail.com
 
 <!---
